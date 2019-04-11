@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Anaheim Ducks
+2. Liverpool
+3. Sacramento
+  1. Kings
+
+* Food
+  * Drink
